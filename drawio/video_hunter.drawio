@@ -1,11 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T20:13:39.398Z" agent="5.0 (Macintosh)" etag="bEuAkHinCOQ5VkpL9ZeC" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T20:28:23.506Z" agent="5.0 (Macintosh)" etag="2JdloaooHqf16kQeoQc4" version="20.2.3" type="github">
   <diagram id="qAKKASJnIrd8V2YidLNn" name="Page-1">
-    <mxGraphModel dx="786" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zu7ctzuHicQvZKSGoEo2-1" value="Super test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-1" value="&lt;b&gt;Qual é a minha URL no @BaixadorDeVideo?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="450" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-3" value="https://" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-4" value="myvideohunter.com/?u=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-5" value="SEU @ AQUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.51" y="140" as="sourcePoint" />
+            <mxPoint x="439.51" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.51" y="130" as="sourcePoint" />
+            <mxPoint x="169.51" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.51" y="130" as="sourcePoint" />
+            <mxPoint x="439.51" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-10" value="Site myvideohunter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="140" as="sourcePoint" />
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="sourcePoint" />
+            <mxPoint x="450" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="130" as="sourcePoint" />
+            <mxPoint x="560" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zu7ctzuHicQvZKSGoEo2-14" value="Seu @ no Twitter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="445" y="150" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
